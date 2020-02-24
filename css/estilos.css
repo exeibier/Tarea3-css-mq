@@ -247,14 +247,16 @@ html {
         margin: 10px auto;
 
     }
+    .foo-cont {
+        display: block;
+        height: auto;
+    }
 
     .site-footer {
         width: auto;
         height: auto;
     }
-    .foo-cont {
-        display: block;
-    }
+    
 
     
 
